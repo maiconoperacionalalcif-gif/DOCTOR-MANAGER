@@ -1,0 +1,6 @@
+{
+  "name": "Doctor Manager",
+  "description": "SaaS para gestão de clínicas médicas e odontológicas com multi-tenancy, dashboard, pacientes, agenda, agendamentos e profissionais.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
